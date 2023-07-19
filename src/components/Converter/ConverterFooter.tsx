@@ -15,7 +15,7 @@ export function ConverterFooter() {
         library.
       </span>
       <a
-        href="https://github.com/brunobulgaron"
+        href="https://github.com/brunobulgaron/heic-converter"
         className="flex gap-2 mt-4 hover:text-zinc-500"
         target="_blank"
       >
